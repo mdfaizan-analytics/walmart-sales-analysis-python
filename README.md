@@ -23,4 +23,4 @@ This project processes historical corporate retail data from Kaggle containing o
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/walmart-sales-analysis.git](https://github.com/YOUR_USERNAME/walmart-sales-analysis.git)
+   git clone https://github.com/YOUR_USERNAME/walmart-sales-analysis.git
